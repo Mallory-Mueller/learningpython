@@ -1,6 +1,7 @@
 has_high_income=True
-has_good_credit=True
+has_good_credit=False
 
-if has_high_income and has_good_credit:
+if has_high_income or has_good_credit:
     print ("elgible for loan")
+
 
