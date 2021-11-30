@@ -9,3 +9,10 @@ elif is_cold:
 
 else: print("It's a lovely day!")
 print ("Have a good day")
+
+price = 1000000
+ has_good_credit =true
+ if has_good_credit
+     down_payment +.1* price
+ else:
+     down_payment +.2*price
