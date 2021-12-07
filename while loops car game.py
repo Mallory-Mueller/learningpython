@@ -7,9 +7,9 @@ while True:
          print ("car stopped")
     elif command == 'help':
             print (""" 
-            start-to start the car
-             stop- to stop the car
-             quit- to quit the game""")
+start-to start the car
+stop- to stop the car
+quit- to quit the game""")
     elif command == "quit":
         break
     else:
